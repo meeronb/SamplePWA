@@ -1,0 +1,1 @@
+The worker is reponsible managing the connectivity of the session to the server. Conversely, reloading the page if the user goes online and sending push notifications to the server.
